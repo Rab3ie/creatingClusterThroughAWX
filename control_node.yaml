@@ -9,6 +9,6 @@ all:
         :cn1:
         :cn2:
         :cn3:
-      infrastructure:
-        control_node:
-          nodes:
+    infrastructure:
+      control_node:
+        nodes:
